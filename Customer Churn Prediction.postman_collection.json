@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "b5204793-3c3a-450c-b71b-9afc2bc98a38",
+		"name": "Customer Churn Prediction",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27393664"
+	},
+	"item": [
+		{
+			"name": "Bank Customer Churn Prediction",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"credit_score\": [800],\r\n    \"country\": [\"Germany\"],\r\n    \"gender\": [\"Male\"],\r\n    \"age\": [45],\r\n    \"tenure\": [10],\r\n    \"balance\": [100000],\r\n    \"products_number\": [3],\r\n    \"credit_card\": [1],\r\n    \"active_member\": [0],\r\n    \"estimated_salary\": [80000]\r\n}\r\n\r\n\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/predict",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"predict"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
