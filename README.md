@@ -144,4 +144,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Data Source: Kaggle
 - Libraries: Scikit-learn, Pandas, Seaborn, Matplotlib, Flask, etc.
-```
+
+# Here are some pictures of Visualization
+
