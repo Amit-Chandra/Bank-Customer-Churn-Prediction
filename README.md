@@ -145,5 +145,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Data Source: Kaggle
 - Libraries: Scikit-learn, Pandas, Seaborn, Matplotlib, Flask, etc.
 
-# Here are some pictures of Visualization
+## Here are some pictures of Visualization
 
+
+![Visualization of Correlation Heatmap](https://github.com/Amit-Chandra/Bank-Customer-Churn-Prediction/blob/main/1.png)
+![3D Visualization of Credit Card Holders](https://github.com/Amit-Chandra/Bank-Customer-Churn-Prediction/blob/main/2.png)
+![Visualization of Credit Card Holders](https://github.com/Amit-Chandra/Bank-Customer-Churn-Prediction/blob/main/3.png)
